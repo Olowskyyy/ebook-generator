@@ -1,2 +1,3 @@
-# ebook-generator
-Aplikacja do generowania e-booków
+# eBook Generator
+
+Simple Next.js app to create and preview eBooks.
